@@ -1,0 +1,7 @@
+{
+    "domain": "rng",
+    "name": "Random Number Generator",
+    "requirements": [],
+    "iot_class": "local_polling",
+    "version": "0.1.0"
+}
